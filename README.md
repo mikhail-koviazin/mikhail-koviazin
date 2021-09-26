@@ -19,7 +19,7 @@ Hey! Looking for <ins><strong>Senior Full-Stack Web Developer</strong></ins>?
   "education": {
     "degree": "Master's in Software Development",
     "university": "Harbin Institute of Technology"
-  }
+  },
   "skills": {
     "frontend": ["ReactJS", "Redux", ...10 more]
     "backend": ["NodeJS", "Express", "MongoDB", "ApifySDK", ...5 more]
