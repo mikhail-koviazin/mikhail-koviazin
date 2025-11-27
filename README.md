@@ -2,7 +2,7 @@
 
 Hey! Looking for <ins><strong>Senior Full-Stack Web Developer</strong></ins>?
 
-<strong>9 years</strong> of experience in:
+<strong>11 years</strong> of experience in:
 - web scraping
 - web automation
 - browser extensions
@@ -11,8 +11,7 @@ Hey! Looking for <ins><strong>Senior Full-Stack Web Developer</strong></ins>?
 ```javascript
 {
   "personal": {
-    "name": "Mike",
-    "age": 28
+    "name": "Mike"
   },
   "education": {
     "degree": "Master's in Software Development",
@@ -26,9 +25,9 @@ Hey! Looking for <ins><strong>Senior Full-Stack Web Developer</strong></ins>?
 }
 ```
 
-Hi there! **My name is Mike**, I'm 28 years old. Starting from childhood I learnt to program, obtained Master degree in Software Development and now working as <ins>**Senior Full-Stack Web Developer**</ins>.
+Hi there! **My name is Mike**. Starting from childhood I learnt to program, obtained Master degree in Software Development and now working as <ins>**Senior Full-Stack Web Developer**</ins>.
 
-I'm **making life easier** for the last 9 years, developing tools and services for people in wide variety of areas and tech-stacks. Most of my projects are targeting on <ins>saving time</ins>, <ins>automating routine</ins> and <ins>collecting web data</ins>. Already **helped to save thousands of man-hours** and will do the same for you.
+I'm **making life easier** for the last 11 years, developing tools and services for people in wide variety of areas and tech-stacks. Most of my projects are targeting on <ins>saving time</ins>, <ins>automating routine</ins> and <ins>collecting web data</ins>. Already **helped to save thousands of man-hours** and will do the same for you.
 
 My strongest skills are <ins>Web Scraping</ins>, <ins>Web Automation</ins> and <ins>Browser Extensions</ins> but also working on common web services and apps. I prefer to use React and NodeJS for delivering the best user experience.
 
