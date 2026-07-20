@@ -8,7 +8,7 @@ I build reliable **browser automation, web scraping and browser extensions**, en
 
 - **5,000,000+ products** scraped daily at peak, across 1,000+ sites
 - **50+ browser extensions** shipped since Manifest V2 days: Chrome, Firefox, Edge, Safari, iOS/Android WebView
-- **30,000+ users** on a coupon auto-apply extension I built from scratch and led (4.8/5 rating)
+- **30,000+ users** on a coupon auto-apply extension I architected and built from scratch, leading a team of 3 (4.8/5 rating)
 - an 8-minute verification flow rebuilt into **60-75 seconds at 99%+ reliability**
 
 ```js
@@ -28,7 +28,7 @@ I build reliable **browser automation, web scraping and browser extensions**, en
 
 AI is a big lever in my recent work, and I use it with discipline. LLM extraction plus deterministic validation for sources too inconsistent for fixed parsers; agent workflows that combine browser automation with LLM analysis. Costs stay under control because **AI works hardest at development time**, so the production path stays fast and cheap at volume.
 
-Most of my work is client work, so it lives in private repos. Some of it is public anyway: [FatCoupon](https://fatcoupon.com/chrome-coupon-extension) (coupon auto-apply at checkout), [Saleo Demo Sync](https://saleo.io/master-live-demos-centralized-updates-and-seamless-scalability-with-demo-sync/) (real-time demo personalization, built from scratch), [1Blocker](https://www.1blocker.com/) (Safari ad blocking on an adapted uBlock engine).
+Most of my work is client work, so it lives in private repos. Some of it is public anyway: [FatCoupon](https://fatcoupon.com/chrome-coupon-extension) (coupon auto-apply at checkout), [Saleo Demo Sync](https://saleo.io/master-live-demos-centralized-updates-and-seamless-scalability-with-demo-sync/) (real-time demo personalization, a feature I built from scratch inside the Saleo extension), [1Blocker](https://www.1blocker.com/) (Safari ad blocking on macOS and iOS, on an adapted uBlock engine).
 
 ## Contact
 
